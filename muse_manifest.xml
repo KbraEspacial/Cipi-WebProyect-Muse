@@ -1,0 +1,227 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Cipi.com" resolutions="1x" timestamp="1544386424570">
+  <folder name="css">
+    <file name="site_global.css" crc="404050922"/>
+    <file name="master_a-p_g_-maestra.css" crc="4264949777" ref="contactos:medio:quienes-somos:leve:grave:index"/>
+    <file name="contactos.css" crc="208501609" ref="contactos"/>
+    <file name="medio.css" crc="123547178" ref="medio"/>
+    <file name="quienes-somos.css" crc="4182110217" ref="quienes-somos"/>
+    <file name="leve.css" crc="4015946717" ref="leve"/>
+    <file name="grave.css" crc="94122915" ref="grave"/>
+    <file name="index.css" crc="29742489" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="2-child-865116_1920.jpg" crc="210891455" seo="true" mt="1543964630000"/>
+    <file name="2-child-1031171_1920.jpg" crc="192180724" seo="true" mt="1543965050000"/>
+    <file name="img_20181204_145247.jpg" crc="3885626848" seo="true" mt="1544384614000"/>
+    <file name="img_20181204_145432.jpg" crc="4138457980" seo="true" mt="1543953274000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:quienes-somos:contactos:leve:medio:grave"/>
+    <file name="museutils.js" crc="3803043152" ref="index:quienes-somos:contactos:leve:medio:grave"/>
+    <file name="whatinput.js" crc="86476730" ref="index:quienes-somos:contactos:leve:medio:grave"/>
+    <file name="museconfig.js" crc="380897831" ref="index:quienes-somos:contactos:leve:medio:grave"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:quienes-somos:contactos:leve:medio:grave"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:quienes-somos:contactos:leve:medio:grave"/>
+    <file name="webpro.js" crc="242022427" ref="index:quienes-somos:contactos:leve:medio:grave"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:quienes-somos:contactos"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:quienes-somos:contactos"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:quienes-somos:contactos"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:leve:medio:grave"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:quienes-somos:contactos:leve:medio:grave"/>
+    <file name="require.js" crc="4157109226" ref="index:quienes-somos:contactos:leve:medio:grave"/>
+    <file name="form_check.php" crc="147359589" ref="contactos"/>
+    <file name="form_throttle.php" crc="93986428" ref="contactos"/>
+    <file name="form_process.php" crc="3851993751" ref="contactos"/>
+    <file name="form-u2660.php" crc="3904494841" ref="contactos"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="526263370" ref="index"/>
+    <file name="logo.png" crc="3775990300" seo="true" ref="index:quienes-somos:contactos:leve:medio:grave">
+      <caption webpage="index" alt=""/>
+      <caption webpage="grave" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="leve" alt=""/>
+      <caption webpage="medio" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="u178-6.png" crc="223697094" ref="index:quienes-somos:contactos:leve:medio:grave"/>
+    <file name="svg-pegado-47338x47.svg" crc="4049897308" seo="true" ref="index:quienes-somos:contactos:leve:medio:grave">
+      <caption webpage="index" alt=""/>
+      <caption webpage="grave" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="leve" alt=""/>
+      <caption webpage="medio" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="svg pegado 47338x47_poster_.png" crc="4084044994" ref="index"/>
+    <file name="svg-pegado-47337x47.svg" crc="37559926" seo="true" ref="index:quienes-somos:contactos:leve:medio:grave">
+      <caption webpage="index" alt=""/>
+      <caption webpage="grave" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="leve" alt=""/>
+      <caption webpage="medio" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="svg pegado 47337x47_poster_.png" crc="27426613" ref="index"/>
+    <file name="svg-pegado-47325x47.svg" crc="525301208" seo="true" ref="index:quienes-somos:contactos:leve:medio:grave">
+      <caption webpage="index" alt=""/>
+      <caption webpage="grave" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="leve" alt=""/>
+      <caption webpage="medio" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="svg pegado 47325x47_poster_.png" crc="107202219" ref="index"/>
+    <file name="2 baby-84552_1920-crop-u4888.jpg" crc="3838802013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:quienes-somos:contactos"/>
+    <file name="2 kids-1093758_1920-crop-u4908.jpg" crc="4273137640" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2 kids-2985782_1920-crop-u4928.jpg" crc="131214530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:quienes-somos:contactos"/>
+    <file name="u2513-4.png" crc="3996603448" ref="index"/>
+    <file name="u2510-4.png" crc="3868341945" ref="index"/>
+    <file name="u2503-4.png" crc="4262381658" ref="index"/>
+    <file name="leve-verde.png" crc="131474524" seo="true" ref="index:leve">
+      <caption webpage="index" alt=""/>
+      <caption webpage="leve" alt=""/>
+    </file>
+    <file name="medio-naranja.png" crc="3810821849" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grave-rojo mejor-crop-u2276.png" crc="3784860342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="leve-verde173x281.png" crc="231528575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="medio-naranja-crop-u2291.png" crc="264812091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grave-rojo mejor-crop-u2295.png" crc="231472200" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="enfermera.png" crc="3792286473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="virus rey definitivo.png" crc="519766666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2522-4.png" crc="535101925" ref="index"/>
+    <file name="img_20181204_145432.jpg" crc="399365722" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2 girls-462072_1920.jpg" crc="4275963417" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2 mother-1039765_1920.jpg" crc="321160043" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2 bucket-1005891_1920.jpg" crc="4176211362" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1900.png" crc="328590514" ref="index"/>
+    <file name="u1900-a.png" crc="4071977851" ref="index"/>
+    <file name="u1902.png" crc="274229687" ref="index"/>
+    <file name="u1902-a.png" crc="437311596" ref="index"/>
+    <file name="u1894.png" crc="3810104415" ref="index"/>
+    <file name="u1894-a.png" crc="4062156377" ref="index"/>
+    <file name="u1896.png" crc="376494974" ref="index"/>
+    <file name="u1896-a.png" crc="3886444481" ref="index"/>
+    <file name="svg-pegado-569.svg" crc="4116389954" seo="true" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="svg pegado 569_poster_.png" crc="319621455" ref="quienes-somos"/>
+    <file name="svg-pegado-5692.svg" crc="105077945" seo="true" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="svg pegado 569_poster_2.png" crc="527643466" ref="quienes-somos"/>
+    <file name="svg-pegado-624949x511.svg" crc="506670020" seo="true" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="svg pegado 624949x511_poster_.png" crc="116239001" ref="quienes-somos"/>
+    <file name="u3528-4.png" crc="128020296" ref="quienes-somos"/>
+    <file name="svg-pegado-709924x130.svg" crc="4069364827" seo="true" ref="quienes-somos">
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="svg pegado 709924x130_poster_.png" crc="270278663" ref="quienes-somos"/>
+    <file name="9.png" crc="387572852" seo="true" ref="quienes-somos:medio">
+      <caption webpage="medio" alt=""/>
+      <caption webpage="quienes-somos" alt=""/>
+    </file>
+    <file name="03a1126b1742ce82daa2b4eacbfb89d3-crop-u2853.jpg" crc="4254583206" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="35296469_1748746441882093_7044655756045451264_o-crop-u2963.jpg" crc="94750741" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="dsc01071-crop-u2983.jpg" crc="4033895986" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="mercuriifrente-crop-u3003.jpg" crc="535054181" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="svg-pegado-6546x6.svg" crc="4234529594" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="svg pegado 6546x6_poster_.png" crc="3998048026" ref="contactos"/>
+    <file name="svg-pegado-6548x6.svg" crc="3857620584" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="svg pegado 6548x6_poster_.png" crc="361225792" ref="contactos"/>
+    <file name="u4379-4.png" crc="3996603448" ref="leve"/>
+    <file name="5.png" crc="4146382805" seo="true" ref="leve:medio">
+      <caption webpage="leve" alt=""/>
+      <caption webpage="medio" alt=""/>
+    </file>
+    <file name="6.png" crc="420160044" seo="true" ref="leve">
+      <caption webpage="leve" alt=""/>
+    </file>
+    <file name="7.png" crc="483897746" seo="true" ref="leve">
+      <caption webpage="leve" alt=""/>
+    </file>
+    <file name="2.png" crc="144486705" seo="true" ref="leve:grave">
+      <caption webpage="leve" alt=""/>
+      <caption webpage="grave" alt=""/>
+    </file>
+    <file name="u4133-4.png" crc="3868341945" ref="medio"/>
+    <file name="medio-naranja566x300.png" crc="4045443091" seo="true" ref="medio">
+      <caption webpage="medio" alt=""/>
+    </file>
+    <file name="1.png" crc="220385036" seo="true" ref="medio">
+      <caption webpage="medio" alt=""/>
+    </file>
+    <file name="4.png" crc="3806172727" seo="true" ref="medio">
+      <caption webpage="medio" alt=""/>
+    </file>
+    <file name="u4382-4.png" crc="4005844118" ref="grave"/>
+    <file name="grave-rojo mejor603x358.png" crc="4207554013" seo="true" ref="grave">
+      <caption webpage="grave" alt=""/>
+    </file>
+    <file name="9161x149.png" crc="374888432" seo="true" ref="grave">
+      <caption webpage="grave" alt=""/>
+    </file>
+    <file name="8.png" crc="3980046181" seo="true" ref="grave">
+      <caption webpage="grave" alt=""/>
+    </file>
+    <file name="10.png" crc="4044655620" seo="true" ref="grave">
+      <caption webpage="grave" alt=""/>
+    </file>
+    <file name="3.png" crc="339981739" seo="true" ref="grave">
+      <caption webpage="grave" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3959405421" seo="true" mt="1544386389268" redirect="true"/>
+  <file name="quienes-somos.html" crc="4005608412" seo="true" mt="1544386389268" redirect="true"/>
+  <file name="contactos.html" crc="4185127268" seo="true" mt="1544386389268" redirect="true"/>
+  <file name="leve.html" crc="4148491956" seo="true" mt="1544386389268" redirect="true"/>
+  <file name="medio.html" crc="4050434762" seo="true" mt="1544386389268" redirect="true"/>
+  <file name="grave.html" crc="355943601" seo="true" mt="1544386389268" redirect="true"/>
+</manifest>
